@@ -1,2 +1,2 @@
 # movie-app
-Movie list app using html css and js
+Movie list template app using html css and js
